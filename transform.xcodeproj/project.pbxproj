@@ -15,6 +15,7 @@
 		0D0A31E21C4E2903002BC8AF /* transformTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A31E11C4E2903002BC8AF /* transformTests.m */; };
 		0D0A31ED1C4E2903002BC8AF /* transformUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A31EC1C4E2903002BC8AF /* transformUITests.m */; };
 		0D0A31FC1C4E2930002BC8AF /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A31FB1C4E2930002BC8AF /* TableViewController.m */; };
+		0D38113E1C4F58BA00C7A42D /* 2016-01-20 13_49_25.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0D38113D1C4F58BA00C7A42D /* 2016-01-20 13_49_25.gif */; };
 		75B43EF71C4E93650074C742 /* TransformButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B43EF61C4E93650074C742 /* TransformButton.m */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		0D0A31EE1C4E2903002BC8AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D0A31FA1C4E2930002BC8AF /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		0D0A31FB1C4E2930002BC8AF /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		0D38113D1C4F58BA00C7A42D /* 2016-01-20 13_49_25.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2016-01-20 13_49_25.gif"; sourceTree = "<group>"; };
 		75B43EF51C4E93650074C742 /* TransformButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransformButton.h; sourceTree = "<group>"; };
 		75B43EF61C4E93650074C742 /* TransformButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransformButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -106,6 +108,7 @@
 			children = (
 				0D0A31CA1C4E2903002BC8AF /* AppDelegate.h */,
 				0D0A31CB1C4E2903002BC8AF /* AppDelegate.m */,
+				0D38113D1C4F58BA00C7A42D /* 2016-01-20 13_49_25.gif */,
 				0D0A31D01C4E2903002BC8AF /* Main.storyboard */,
 				0D0A31D31C4E2903002BC8AF /* Assets.xcassets */,
 				0D0A31D51C4E2903002BC8AF /* LaunchScreen.storyboard */,
@@ -252,6 +255,7 @@
 				0D0A31D71C4E2903002BC8AF /* LaunchScreen.storyboard in Resources */,
 				0D0A31D41C4E2903002BC8AF /* Assets.xcassets in Resources */,
 				0D0A31D21C4E2903002BC8AF /* Main.storyboard in Resources */,
+				0D38113E1C4F58BA00C7A42D /* 2016-01-20 13_49_25.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
